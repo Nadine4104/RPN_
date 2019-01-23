@@ -5,7 +5,7 @@ Compiler: gcc version 5.4.0
 OS: Ubuntu 16.04
 
 Building:
-$ make \n
+$ make 
 to build executable pol
 $ make clean
 to delete executable and object filesW
